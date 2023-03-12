@@ -1,0 +1,7 @@
+Hi! Welcome to ExpenseTrackerBot! This bot serves to assist in you in tracking your expenses! I might not be online all the time due to limited hosting capabilities.
+
+To record your expenses, use /expense.
+
+To conveniently access the expense tracking site, use /track.
+
+To edit your profile, use /profile.

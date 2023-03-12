@@ -1,0 +1,31 @@
+[type=submit] {
+    margin-top: 4px;
+}
+
+.container-sm {
+    background-color:white;
+    opacity: 0.95;
+    border-radius: 25px;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    overflow: auto;
+    width: clamp(200px, 80vw, 1000px);
+}
+
+.form {
+    font-size: 10vw;
+}
+
+body {
+    background-image: radial-gradient(circle, #ec6eff , #996eff) !important;
+}
+
+html {
+    min-height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
